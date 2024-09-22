@@ -1,0 +1,4 @@
+
+ADI 10H    ; Load the first 8-bit number (32H) into accumulator A
+ADI 25H       ; Add the immediate 8-bit number (25H) to the content of accumulator A
+HLT           ; Halt the program
